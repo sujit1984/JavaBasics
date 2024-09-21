@@ -17,7 +17,7 @@ public class RootsOfQuadraticEqn {
         else {
             r1 = (-b + Math.sqrt((b * b) - 4 * a * c)) / (2 * a);
             r2 = (-b - Math.sqrt((b * b) - 4 * a * c)) / (2 * a);
-            System.out.println("The roots of the equation are: " + r1 + "and " + r2);
+            System.out.println("The roots of the equation are: " + r1 + " and " + r2);
 
         }
     }
