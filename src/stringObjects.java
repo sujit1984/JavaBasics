@@ -1,6 +1,6 @@
 public class stringObjects {
 
-    public static void main(String[] args) {
+    public static <Char> void main(String[] args) {
 
 
         char c[] = {'A', 'B','C','D'};
@@ -43,7 +43,25 @@ public class stringObjects {
         //endsWith example
         boolean org = str14.endsWith(".org");
         String str15 = org == true ? "It's an organization": "It's not an organization";
+
+
+
         System.out.println(str15);
+        char ch = str14.charAt(7);
+
+        System.out.println(ch);
+
+        //indexOf method
+        System.out.println(str14.indexOf('.'));
+        System.out.println(str14.indexOf("ab"));
+        System.out.println(str14.indexOf(".",4));
+        System.out.println(str14.indexOf("?"));
+        System.out.println(str14.lastIndexOf("."));
+
+
+
+
+
 
 
 
