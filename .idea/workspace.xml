@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9985413b-389a-4d4a-85e7-902d11f373d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBasics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataSizeRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberSystem.java" afterDir="false" />
+    <list default="true" id="9985413b-389a-4d4a-85e7-902d11f373d1" name="Changes" comment="Pattern matching example in Java">
+      <change afterPath="$PROJECT_DIR$/src/binaryOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hexadecimalOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replaceExtraSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmSpecialChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sujit1984&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sujit1984/JavaBasics.git&quot;,
+    &quot;accountId&quot;: &quot;9ef435e8-5a66-4eb6-8192-5ca61f115435&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -42,9 +50,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BitWiseOperation.executor": "Run",
+    "Application.BitwiseMergeMask.executor": "Run",
+    "Application.BitwiseSwap.executor": "Run",
+    "Application.Cuboid.executor": "Run",
     "Application.DataSizeRange.executor": "Run",
+    "Application.IncDec.executor": "Run",
+    "Application.IncrementExample.executor": "Run",
     "Application.InputData.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NumberSystem.executor": "Run",
+    "Application.PrintingOptions.executor": "Run",
+    "Application.RootsOfQuadraticEqn.executor": "Run",
+    "Application.binaryOrNot.executor": "Run",
+    "Application.hexadecimalOrNot.executor": "Run",
+    "Application.isDateFormat.executor": "Run",
+    "Application.patternMatching.executor": "Run",
+    "Application.replaceExtraSpaces.executor": "Run",
+    "Application.rmSpecialChars.executor": "Run",
+    "Application.stringObjects.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -60,7 +84,108 @@
       <option name="presentableId" value="Default" />
       <updated>1726305018716</updated>
     </task>
+    <task id="LOCAL-00001" summary="Basics of Java">
+      <option name="closed" value="true" />
+      <created>1726894391170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726894391170</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basics of Java970">
+      <option name="closed" value="true" />
+      <created>1726940980308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726940980308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Roots of a quadratic equation">
+      <option name="closed" value="true" />
+      <created>1726942007276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726942007276</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Roots of a quadratic equation">
+      <option name="closed" value="true" />
+      <created>1726942145319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726942145319</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Total area and volume of a cuboid">
+      <option name="closed" value="true" />
+      <created>1726989130573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726989130573</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Bitwise operations and Increment and decrement operations in java">
+      <option name="closed" value="true" />
+      <created>1727258942347</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727258942347</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bitwise Swap and Bitwise merge">
+      <option name="closed" value="true" />
+      <created>1727274108415</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727274108415</updated>
+    </task>
+    <task id="LOCAL-00008" summary="String options with formatting output">
+      <option name="closed" value="true" />
+      <created>1727541776833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727541776833</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Examples of different functions with String class">
+      <option name="closed" value="true" />
+      <created>1727598846433</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727598846433</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Examples of different functions with String class">
+      <option name="closed" value="true" />
+      <created>1727613397887</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727613397887</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Pattern matching example in Java">
+      <option name="closed" value="true" />
+      <created>1727626626876</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727626626876</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basics of Java" />
+    <MESSAGE value="Basics of Java970" />
+    <MESSAGE value="Roots of a quadratic equation" />
+    <MESSAGE value="Total area and volume of a cuboid" />
+    <MESSAGE value="Bitwise operations and Increment and decrement operations in java" />
+    <MESSAGE value="Bitwise Swap and Bitwise merge" />
+    <MESSAGE value="String options with formatting output" />
+    <MESSAGE value="Examples of different functions with String class" />
+    <MESSAGE value="Pattern matching example in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern matching example in Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
